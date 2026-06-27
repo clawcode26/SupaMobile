@@ -1,0 +1,8 @@
+﻿ERROR|COMPILE_TIME_ERROR|UNDEFINED_CLASS|C:\\Users\\priya\\Documents\\projects\\supamobile\\lib\\core\\providers\\core_providers.dart|8|36|16|Undefined class 'SecureStorageRef'.
+ERROR|COMPILE_TIME_ERROR|UNDEFINED_CLASS|C:\\Users\\priya\\Documents\\projects\\supamobile\\lib\\features\\projects\\projects_provider.dart|9|32|11|Undefined class 'ProjectsRef'.
+ERROR|COMPILE_TIME_ERROR|CREATION_WITH_NON_TYPE|C:\\Users\\priya\\Documents\\projects\\supamobile\\test\\widget_test.dart|16|35|5|The name 'MyApp' isn't a class.
+WARNING|STATIC_WARNING|UNUSED_RESULT|C:\\Users\\priya\\Documents\\projects\\supamobile\\lib\\features\\projects\\projects_screen.dart|129|21|7|The value of 'refresh' should be used.
+WARNING|STATIC_WARNING|UNUSED_IMPORT|C:\\Users\\priya\\Documents\\projects\\supamobile\\lib\\widgets\\supa_badge.dart|2|8|31|Unused import: '../core/theme/app_colors.dart'.
+INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Users\\priya\\Documents\\projects\\supamobile\\lib\\features\\dashboard\\dashboard_screen.dart|114|51|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Users\\priya\\Documents\\projects\\supamobile\\lib\\widgets\\supa_badge.dart|19|22|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Users\\priya\\Documents\\projects\\supamobile\\lib\\widgets\\supa_badge.dart|20|41|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.

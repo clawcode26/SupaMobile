@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132584247749",
+    "project_id": "supamobile-26",
+    "storage_bucket": "supamobile-26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132584247749:android:bebc56bbaf1d2319b9bbac",
+        "android_client_info": {
+          "package_name": "com.supabasemobile.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmRAFvU5zfyj9K_0MoN0RqusCim_CJ9L0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
