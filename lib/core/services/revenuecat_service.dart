@@ -2,10 +2,10 @@ import 'dart:io';
 import 'package:flutter/foundation.dart';
 import 'package:purchases_flutter/purchases_flutter.dart';
 import 'package:purchases_ui_flutter/purchases_ui_flutter.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 class RevenueCatService {
-  // Test Key provided by user
-  static const _apiKey = 'test_sJaIXftdqgsnBLzzwaxizViYXeN';
+  static final _apiKey = dotenv.env['REVENUECAT_API_KEY'] ?? '';
   static const entitlementId = 'SupaMobile Pro';
 
   static Future<void> initialize() async {
